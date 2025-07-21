@@ -1,0 +1,8 @@
+# No third-party packages required for base TrackSnipper functionality
+# If extended with features like email alerts, use: 
+# smtplib (built-in), or requests, schedule, etc.
+
+# Example for optional future use:
+# requests
+# schedule
+# rich
